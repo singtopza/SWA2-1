@@ -1,0 +1,2 @@
+module SWA2 {
+}
